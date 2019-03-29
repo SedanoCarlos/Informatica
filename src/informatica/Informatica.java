@@ -4,4 +4,7 @@ public class Informatica {
         System.out.println("Modificacion 1");
     }
     
+    public static void nuevoCarlos(){
+        System.out.println("Nuevo metodo de Carlos");
+    }
 }
