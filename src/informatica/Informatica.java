@@ -14,6 +14,7 @@ public class Informatica {
         System.out.println("Cambio - Carlos 4");
         System.out.println("Cambio - Carlos 5");
         System.out.println("Cambio - Carlos 6");
+        System.out.println("Funcionalidad 1 - Carlos");
 
         System.out.println("Cambio - Miguel Angel 1");
         System.out.println("Cambio - Miguel Angel 2");
